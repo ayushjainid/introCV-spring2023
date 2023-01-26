@@ -93,37 +93,37 @@ We do not require purchase of any textbooks and the course will be self-containe
 | ----- | ------------------------ | ------| --------------------------------------------------------------------------------------------- |
 | 01/23 | Lecture 1             | Introduction to Computer Vision - 1      | Slides (<a href="http://www.di.ens.fr/~ponce/lect1.pptx">PPTX</a>) |
 | 02/09 | Lab 1                 | Introduction to Computer Vision - 1.5    | Slides (<a href="http://www.di.ens.fr/~ponce/lect1.5.pptx">PPTX</a>) |
-| 01/30 | Lecture 2             | Camera geometry and calibration       | Slides (<a href="">PPTX</a>, <a href="">PDF</a>) |
-| 02/09 | Lab 2                 | Homework 1 review      | Slides (<a href="">PPTX</a>, <a href="">PDF</a>) Notebook (<a href="">Jupyter</a>) |
-| 02/06 | Lecture 3             | Camera geometry and calibration      | Slides (<a href="">PPTX</a>, <a href="">PDF</a>) |
+| 01/30 | Lecture 2             | Camera geometry and calibration       | Slides (PPTX, PDF) |
+| 02/09 | Lab 2                 | Homework 1 review      | Slides (PPTX, PDF), Notebook (Jupyter) |
+| 02/06 | Lecture 3             | Camera geometry and calibration      | Slides (PPTX, PDF) |
 | 02/16 | Lab                   |  HW1 Q&A     |  |
-| 02/17 | Exercise 1 DUE        |  HW on Camera Calibration  | <a href="">Link</a> 
-| 02/13 | Lecture 4             | Image Filtering   | Slides ([Keynote](), [PDF]())|
-| 02/23 | Lab 3                 | Image Filtering | Notebook (<a href="">Jupyter</a>)  |
+| 02/17 | Exercise 1 DUE        |  HW on Camera Calibration  | Link 
+| 02/13 | Lecture 4             | Image Filtering   | Slides (Keynote, PDF) |
+| 02/23 | Lab 3                 | Image Filtering | Notebook (Jupyter)  |
 | 03/20 | No class | (Presidents’ Day) | |
-| 02/27 | Lecture 5             | Edge and Feature Detection   | Slides ([Keynote](), [PDF]()) |
-| 03/02 | Lab 4                 | Non-Max Suppression and RANSAC  | Notebook (<a href="">Jupyter</a>) |
-| 03/06 | Lecture 6             |  Radiometry     | Slides (<a href="">PPTX</a>, <a href="">PDF</a>)  |
+| 02/27 | Lecture 5             | Edge and Feature Detection   | Slides (Keynote, PDF) |
+| 03/02 | Lab 4                 | Non-Max Suppression and RANSAC  | Notebook (Jupyter) |
+| 03/06 | Lecture 6             |  Radiometry     | Slides (PPTX, PDF)  |
 | 03/09 | Lab                   |  HW2 Q&A    |  |
-| 03/10 | Exercise 2 DUE        |  HW on Canny Edge Detector       |<a href="">Link</a> |
+| 03/10 | Exercise 2 DUE        |  HW on Canny Edge Detector       | Link |
 | 03/13 | No class | (spring break) | |
-| 03/20 | Lecture 7             |  Radiometry     | Slides (<a href="">PPTX</a>, <a href="">PDF</a>) |
-| 03/11 | Project abstract DUE | | [Submission form]() |
-| 03/23 | Lab 5                 |  Image Segmentation with K-Means Clustering | Notebook (<a href="">Jupyter</a>) |
-| 03/27 | Lecture 8             |  Texture and Segmentation    | Slides ([Keynote](), [PDF]()) |
-| 03/30 | Lab 6                  | Image Segmentation using Texture | Notebook (<a href=""> Jupyter </a>) |
-| 04/03 | Lecture 9             | Stereopsis and two-view geometry  | Slides (<a href="">PPTX</a>, <a href="">PDF</a>) |
-| 04/10 | Lecture 10            | Epipolar Geometry  | Slides (<a href="">PPTX</a>, <a href="">PDF</a>) |
-| 04/11 | Exercise 3 DUE        |  HW on Mean Shift  | <a href="">Link</a> |
-| 04/17 | Lecture 11            | Reconstruction & Structure From Motion | Slides (<a href="">PPTX</a>, <a href="">PDF</a>) |
-| 04/24 | Lecture 12 & Lab 7    | 3D Processing, cont.     | Slides (<a href="">PPTX</a>, <a href="">PDF</a>), Lab Notebook (<a href="">Jupyter</a>) |
-| 05/01 | Lecture 13            | CNNs Intro     | Slides (<a href="">Keynote</a>, <a href="">PDF</a>)|
-| 04/27 | Lab  8                 | Receptive Fields Size    | Slides (<a href="">PPTX</a>, <a href="">PDF</a>), Notebook (<a href="">Jupyter</a>) |
-| 04/21 | Lecture 14            | Transformers and Object Detection     | Slides (<a href="">Keynote</a>, <a href="">PDF</a>) |
-| 04/26 | Lab  9                 | Object Detection with CNNs and YOLO | Notebook (<a href="">Jupyter</a>) |
+| 03/20 | Lecture 7             |  Radiometry     | Slides (PPTX, PDF) |
+| 03/11 | Project abstract DUE | | Submission form |
+| 03/23 | Lab 5                 |  Image Segmentation with K-Means Clustering | Notebook (Jupyter) |
+| 03/27 | Lecture 8             |  Texture and Segmentation    | Slides (Keynote, PDF) |
+| 03/30 | Lab 6                  | Image Segmentation using Texture | Notebook (Jupyter) |
+| 04/03 | Lecture 9             | Stereopsis and two-view geometry  | Slides (PPTX, PDF) |
+| 04/10 | Lecture 10            | Epipolar Geometry  | Slides (PPTX, PDF) |
+| 04/11 | Exercise 3 DUE        |  HW on Mean Shift  | Link |
+| 04/17 | Lecture 11            | Reconstruction & Structure From Motion | Slides (PPTX, PDF) |
+| 04/24 | Lecture 12 & Lab 7    | 3D Processing, cont.     | Slides (PPTX, PDF), Lab Notebook (Jupyter) |
+| 05/01 | Lecture 13            | CNNs Intro     | Slides (PPTX, PDF) |
+| 04/27 | Lab  8                 | Receptive Fields Size    | Slides (PPTX, PDF), Notebook (Jupyter) |
+| 04/21 | Lecture 14            | Transformers and Object Detection     | Slides (PPTX, PDF) |
+| 04/26 | Lab  9                 | Object Detection with CNNs and YOLO | Notebook (Jupyter) |
 | 04/28 | Lecture 15                   |      |  |
 | 05/03 | Lab                   |      |  |
-| 05/04 | Exercise 4 DUE        |  HW on Neural Networks                        | <a href="">Link</a> |
+| 05/04 | Exercise 4 DUE        |  HW on Neural Networks                        | Link |
 | 05/05 | Lecture 14                   | Final Presentations    |  |
 
 
