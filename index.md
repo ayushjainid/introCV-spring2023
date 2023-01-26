@@ -25,7 +25,7 @@ The labs will be in-person.  Labs will be used to cover additional materials or 
 
 * **Office Hours**: \
 <a href="https://www.di.ens.fr/~ponce/">Jean Ponce</a> (jean.ponce@inria.fr) \
-2:00pm-3:30pm \
+Wednesdays, 2:00pm-3:30pm \
 Room 300, 60 5th Ave, New York, NY 10011
 
 <!-- CampusWire link to be updated -->
