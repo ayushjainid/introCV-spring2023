@@ -15,7 +15,7 @@ Course webpage for the NYU Spring 2023 Course Special Topics in Data Science, DS
 Mondays 4:55pm-6:35pm  \
 **Location**: 208, Silver Center for Arts and Science, 32 Waverly Pl, New York, NY 10011 (SILV 208, <a href="https://www.google.com/maps/dir//32+Waverly+Pl,+New+York,+NY+10003,+United+States/@40.7302447,-74.0654408,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89c25990990b5405:0xadad3d11ec59c6b4!2m2!1d-73.9954009!2d40.7302659">location link</a>)   \
 \
-The class will be only in-person. Slides will be available after the class on this webpage. (see [Schedule](#Schedule)).
+The class will be only in-person. Slides will be available after the class on this webpage and the Brightspace. (see [Schedule](#Schedule)).
 
 * DS-GA 3001.010 (Lab) \
 Thursdays 5:55pm-6:45pm \
