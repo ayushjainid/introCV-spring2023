@@ -39,7 +39,7 @@ Please try first to post any questions about course logistics and material, HWs 
 <a href="https://esizikova.github.io">Elena Sizikova</a> (es5223@nyu.edu) -->
 
 ### TAs and Graders
-<a href="https://www.linkedin.com/in/ayushjainid">Ayush Jain</a> (ayushjain@nyu.edu) \
+<a href="https://www.linkedin.com/in/ayushjainid">Ayush Jain</a> (aj3152@nyu.edu) \
 <a href="https://www.linkedin.com/in/zuhaib-akhtar-ba4408162/">Zuhaib Akhtar</a> (za2023@nyu.edu)
 
 
