@@ -93,7 +93,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | ----- | ------------------------ | ------| --------------------------------------------------------------------------------------------- |
 | 01/23 | Lecture 1             | Introduction to Computer Vision - 1      | Slides (<a href="http://www.di.ens.fr/~ponce/lect1.pptx">PPTX</a>) |
 | 02/09 | Lab 1                 | Introduction to Computer Vision - 1.5    | Slides (<a href="http://www.di.ens.fr/~ponce/lect1.5.pptx">PPTX</a>) |
-| 01/30 | Lecture 2             | Introduction to Computer Vision - 2       | Slides (<a href="https://docs.google.com/presentation/d/125IC-roy7PHrRz-80-jfxvLVTPJO_XL3/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a> |
+| 01/30 | Lecture 2             | Introduction to Computer Vision - 2       | Slides (<a href="https://docs.google.com/presentation/d/125IC-roy7PHrRz-80-jfxvLVTPJO_XL3/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 02/09 | Lab 2                 | Homework 1 dicussion      | Slides (PPTX, PDF), Notebook (Jupyter) |
 | 02/06 | Lecture 3             | Camera geometry and calibration      | Slides (PPTX, PDF) |
 | 02/16 | Lab                   |  HW1 Q&A     |  |
