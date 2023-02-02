@@ -123,10 +123,6 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 05/04 | Lab  8                | Receptive Fields Size & HW4 QnA    | Link |
 | 05/05 | Homework 4 DUE        |  HW on Neural Networks                        | Link |
 | 05/08 | Lecture 14                   | Final Presentations    |  |
-<!-- | 05/08 | Lecture 14            | Transformers and Object Detection     | Slides (PPTX, PDF) | -->
-<!-- | 04/26 | Lab  9                | Object Detection with CNNs and YOLO | Notebook (Jupyter) |
-| 04/28 | Lecture 15                   |      |  |
-| 05/03 | Lab                   |      |  | -->
 
 
 
