@@ -56,7 +56,7 @@ Due on Mar. 10.
 Due on Apr. 11.
 * **Homework 4** on neural networks.
 Due on May 5.
-* **Final project:** Submit project abstract by March 11 [here](https://docs.google.com/forms/d/e/1FAIpQLScr7l0nuzwDEAmCWWxEdHEAMXVa_nPA9vsX-L1F_dx-KMC7dg/viewform?usp=sf_link). Final presentations will be held during the last lecture (May 8) and the project report will be due May 8, 11.59PM EST.
+* **Final project:** Submit project abstract by March 11 on Brightspace. Final presentations will be held during the last lecture (May 8) and the project report will be due May 8, 11.59PM EST.
 
 ### Participation and Attendance
 You are expected to attend and participate in classes and labs in person or via Zoom (see NYU Brightspace for link). Class attendance will count for 5% of your grade and lab attendance will count for 5% of your grade.
