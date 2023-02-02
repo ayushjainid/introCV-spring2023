@@ -99,7 +99,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/06 | Lecture 3             | Camera geometry and calibration      | Slides (PPTX, PDF) |
 | 02/13 | Lecture 4             | Image Filtering   | Slides (Keynote, PDF) |
 | 02/16 | Lab                   | HW1 Q&A     |  |
-| 02/17 | Exercise 1 DUE        | HW on Camera Calibration  | <a href="">Link</a>
+| 02/17 | Exercise 1 DUE        | HW on Camera Calibration  | HW1 (<a href="https://drive.google.com/file/d/1qj7JLvRY3UJfQbpPf7DXugyaPjtSR6jh/view?usp=share_link">Link</a>)
 | 02/23 | Lab 3                 | Image Filtering | Notebook (Jupyter)  |
 | 03/20 | No class | (Presidents’ Day) | |
 | 02/27 | Lecture 5             | Edge and Feature Detection   | Slides (Keynote, PDF) |
