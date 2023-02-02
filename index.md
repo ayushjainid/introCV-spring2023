@@ -95,7 +95,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 01/23 | Lecture 1             | Introduction to Computer Vision - 1      | Slides (<a href="https://docs.google.com/presentation/d/1XUh23pEWq5Hl0U_F-jMiqCZ4wNwckuzP/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 01/26 | Lab 1                 | Introduction to Computer Vision - 1.5    | Slides (<a href="https://docs.google.com/presentation/d/1w_yuHlFzZoM_76I7ePJaZ0Xn4LxSNWKF/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 01/30 | Lecture 2             | Introduction to Computer Vision - 2       | Slides (<a href="https://docs.google.com/presentation/d/125IC-roy7PHrRz-80-jfxvLVTPJO_XL3/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
-| 02/02 | Lab 2                 | Class Logistics + Homework 1 review      | Slides (PPTX, PDF), Notebook (Jupyter) |
+| 02/02 | Lab 2                 | Class Logistics + Homework 1 review      | Slides (PPTX), HW1 (<a href="https://drive.google.com/file/d/1qj7JLvRY3UJfQbpPf7DXugyaPjtSR6jh/view?usp=share_link">Link</a>)  |
 | 02/06 | Lecture 3             | Camera geometry and calibration      | Slides (PPTX, PDF) |
 | 02/13 | Lecture 4             | Image Filtering   | Slides (Keynote, PDF) |
 | 02/16 | Lab                   | HW1 Q&A     |  |
@@ -122,11 +122,12 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 05/01 | Lecture 13            | CNNs Intro, Transformers and Object Detection     | Slides (PPTX, PDF) |
 | 05/04 | Lab  8                | Receptive Fields Size & HW4 QnA    | Link |
 | 05/05 | Exercise 4 DUE        |  HW on Neural Networks                        | Link |
+| 05/08 | Lecture 14                   | Final Presentations    |  |
 <!-- | 05/08 | Lecture 14            | Transformers and Object Detection     | Slides (PPTX, PDF) | -->
 <!-- | 04/26 | Lab  9                | Object Detection with CNNs and YOLO | Notebook (Jupyter) |
 | 04/28 | Lecture 15                   |      |  |
 | 05/03 | Lab                   |      |  | -->
-| 05/08 | Lecture 14                   | Final Presentations    |  |
+
 
 
 ### Acknowledgements
