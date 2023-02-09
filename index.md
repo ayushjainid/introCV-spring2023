@@ -96,7 +96,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 01/26 | Lab 1                 | Introduction to Computer Vision - 1.5    | Slides (<a href="https://docs.google.com/presentation/d/1w_yuHlFzZoM_76I7ePJaZ0Xn4LxSNWKF/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 01/30 | Lecture 2             | Introduction to Computer Vision - 2       | Slides (<a href="https://docs.google.com/presentation/d/125IC-roy7PHrRz-80-jfxvLVTPJO_XL3/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 02/02 | Lab 2                 | Class Logistics + HW1 review      | Slides (PPTX), HW1 (<a href="https://drive.google.com/file/d/1qj7JLvRY3UJfQbpPf7DXugyaPjtSR6jh/view?usp=share_link">Link</a>)  |
-| 02/06 | Lecture 3             | Camera geometry and calibration      | Slides (PPTX, PDF) |
+| 02/06 | Lecture 3             | Camera geometry and calibration      | Slides (<a href="https://docs.google.com/presentation/d/1VStN7vEO6tWKD8IVZ5CK2hAbVGn6ddrp/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>)) |
 | 02/13 | Lecture 4             | Image Filtering   | Slides (Keynote, PDF) |
 | 02/16 | Lab                   | HW1 Q&A     |  |
 | 02/17 | Homework 1 DUE        | HW on Camera Calibration  | HW1 (<a href="https://drive.google.com/file/d/1qj7JLvRY3UJfQbpPf7DXugyaPjtSR6jh/view?usp=share_link">Link</a>)
