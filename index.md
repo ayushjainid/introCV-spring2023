@@ -50,7 +50,7 @@ grade) + class participation and attendance (5%) + lab participation and attenda
 
 * **Homework 1** on camera calibration. <a href="https://drive.google.com/file/d/1qj7JLvRY3UJfQbpPf7DXugyaPjtSR6jh/view">Link</a>
 Due on Feb. 17.
-* **Homework 2** on Canny edge detector.
+* **Homework 2** on Canny edge detector. <a href="https://docs.google.com/presentation/d/1cFOEEKzBIQuZNEYbMFb8crGEQ6kwcYcP/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">Link</a>
 Due on Mar. 10.
 * **Homework 3** on mean shift.
 Due on Apr. 11.
