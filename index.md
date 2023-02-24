@@ -100,9 +100,9 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/09 | Lab 3                 | Introduction to Computer Vision - 3.5     | Slides (<a href="https://docs.google.com/presentation/d/1mZa37dNnAh1hqc3XGi30zMg0nK9gRAKR/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>)  |
 | 02/13 | Lecture 4             | Image Filtering   | Slides (<a href="https://docs.google.com/presentation/d/1X6lVc7Fw_TIRs5CkGx2qR7tFnouhyfBG/edit?usp=sharing&ouid=108658886776363854573&rtpof=true&sd=true">PPTX</a>) |
 | 02/16 | Lab 4                 | Canny Edge Detectors and HW2 Review     | Slides (<a href="https://docs.google.com/presentation/d/1cFOEEKzBIQuZNEYbMFb8crGEQ6kwcYcP/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
-| 02/17 | Homework 1 DUE        | HW on Camera Calibration  | HW1 (<a href="https://drive.google.com/file/d/1qj7JLvRY3UJfQbpPf7DXugyaPjtSR6jh/view?usp=share_link">Link</a>)
-| 02/23 | Lab 3                 | Image Filtering | Notebook (Jupyter)  |
+| 02/17 | Homework 1 DUE        | HW on Camera Calibration  | HW1 (<a href="https://drive.google.com/file/d/1qj7JLvRY3UJfQbpPf7DXugyaPjtSR6jh/view?usp=share_link">Link</a>) |
 | 02/20 | No class | (Presidents’ Day) | |
+| 02/23 | Lab 5                 | Radiometry | Slides (<a href="https://docs.google.com/presentation/d/1Xsite1be8I64VZ4aScagAjnLNYi71ALZ/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 02/27 | Lecture 5             | Edge and Feature Detection   | Slides (Keynote, PDF) |
 | 03/02 | Lab 4                 | Non-Max Suppression and RANSAC  | Notebook (Jupyter) |
 | 03/06 | Lecture 6             | Radiometry     | Slides (PPTX, PDF)  |
