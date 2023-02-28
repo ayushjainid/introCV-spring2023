@@ -56,10 +56,10 @@ Due on Mar. 10.
 Due on Apr. 11.
 * **Homework 4** on neural networks.
 Due on May 5.
-* **Final project:** Submit project abstract by March 11 on Brightspace. Final presentations will be held during the last lecture (May 8) and the project report will be due May 8, 11.59PM EST.
+* **Final project:** Fill in the course project survey <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRnDNXOdf9RWb9uVwFUbUgo1lGWgCxEt57N2Gq89hCu_Ff7Q/viewform">form</a> and submit the project abstract by March 13 on Brightspace. Draft report submissions by April 14. Final presentations will be held during the last lecture (May 8) and the project report will be due May 8, 11.59 PM EST.
 
 ### Participation and Attendance
-You are expected to attend and participate in classes and labs in person or via Zoom (see NYU Brightspace for link). Class attendance will count for 5% of your grade and lab attendance will count for 5% of your grade.
+You are expected to attend and participate in classes and labs in person. Class attendance will count for 5% of your grade and lab attendance will count for 5% of your grade.
 
 
 <a name="Syllabus"></a>
@@ -103,27 +103,29 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/17 | Homework 1 DUE        | HW on Camera Calibration  | HW1 (<a href="https://drive.google.com/file/d/1qj7JLvRY3UJfQbpPf7DXugyaPjtSR6jh/view?usp=share_link">Link</a>) |
 | 02/20 | No class | (Presidents’ Day) | |
 | 02/23 | Lab 5                 | Radiometry | Slides (<a href="https://docs.google.com/presentation/d/1Xsite1be8I64VZ4aScagAjnLNYi71ALZ/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
-| 02/27 | Lecture 5             | Edge and Feature Detection   | Slides (Keynote, PDF) |
+| 02/27 | Lecture 5             | Color and Radiometry   | Slides (<a href="https://docs.google.com/presentation/d/1wvO09oe4qSsJDpRP2xHKZmWoRE72StAj/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 03/02 | Lab 4                 | Non-Max Suppression and RANSAC  | Notebook (Jupyter) |
 | 03/06 | Lecture 6             | Radiometry     | Slides (PPTX, PDF)  |
 | 03/09 | Lab                   | HW2 Q&A    |  |
 | 03/10 | Homework 2 DUE        | HW on Canny Edge Detector       | HW2 (<a href="https://drive.google.com/file/d/1rE6blCE5USexnMK6xeE03V-cLUrPOIqu/view?usp=sharing">Link</a>) |
 | 03/13 | No class | (spring break) | |
-| 03/20 | Lecture 7             |  Radiometry     | Slides (PPTX, PDF) |
-| 03/11 | Project abstract DUE | | Submission form |
-| 03/23 | Lab 5                 |  Image Segmentation with K-Means Clustering | Notebook (Jupyter) |
-| 03/27 | Lecture 8             |  Texture and Segmentation    | Slides (Keynote, PDF) |
+| 03/13 | Course Project DUE    | Project abstract DUE | Submission form (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfRnDNXOdf9RWb9uVwFUbUgo1lGWgCxEt57N2Gq89hCu_Ff7Q/viewform">link</a>) |
+| 03/20 | Lecture 7             | Radiometry     | Slides (PPTX, PDF) |
+| 03/23 | Lab 5                 | Image Segmentation with K-Means Clustering | Notebook (Jupyter) |
+| 03/27 | Lecture 8             | Texture and Segmentation    | Slides (Keynote, PDF) |
 | 03/30 | Lab 6                 | Image Segmentation using Texture | Notebook (Jupyter) |
 | 04/03 | Lecture 9             | Stereopsis and two-view geometry  | Slides (PPTX, PDF) |
 | 04/06 | Lab 7                 | HW3 Q&A | Link |
 | 04/10 | Lecture 10            | Epipolar Geometry  | Slides (PPTX, PDF) |
 | 04/11 | Homework 3 DUE        | HW on Mean Shift  | Link |
+| 04/14 | Course Project DUE    | Draft Report DUE  | Brightspace |
 | 04/17 | Lecture 11            | Reconstruction & Structure From Motion | Slides (PPTX, PDF) 
 | 04/24 | Lecture 12            | 3D Processing, cont.     | Slides (PPTX, PDF), Lab Notebook (Jupyter) |
 | 05/01 | Lecture 13            | CNNs Intro, Transformers and Object Detection     | Slides (PPTX, PDF) |
 | 05/04 | Lab  8                | Receptive Fields Size & HW4 QnA    | Link |
 | 05/05 | Homework 4 DUE        |  HW on Neural Networks                        | Link |
-| 05/08 | Lecture 14                   | Final Presentations    |  |
+| 05/08 | Lecture 14            | Final Presentations    | In-person |
+| 05/08 | Course Project DUE    | Final Report DUE  | Brightspace |
 
 
 
