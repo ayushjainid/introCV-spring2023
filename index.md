@@ -106,7 +106,6 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/27 | Lecture 5             | Color and Radiometry   | Slides (<a href="https://docs.google.com/presentation/d/1wvO09oe4qSsJDpRP2xHKZmWoRE72StAj/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 03/02 | Lab 4                 | Color and Radiometry  |  |
 | 03/06 | Lecture 6             | Radiometry     | Slides (PPTX, PDF)  |
-| 03/09 | Lab                   | HW2 Q&A    |  |
 | 03/10 | Homework 2 DUE        | HW on Canny Edge Detector       | HW2 (<a href="https://drive.google.com/file/d/1rE6blCE5USexnMK6xeE03V-cLUrPOIqu/view?usp=sharing">Link</a>) |
 | 03/13 | No class | (spring break) | |
 | 03/13 | Course Project DUE    | Project abstract DUE | Submission form (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfRnDNXOdf9RWb9uVwFUbUgo1lGWgCxEt57N2Gq89hCu_Ff7Q/viewform">link</a>) |
