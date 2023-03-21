@@ -105,7 +105,8 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/23 | Lab 5                 | Radiometry | Slides (<a href="https://docs.google.com/presentation/d/1Xsite1be8I64VZ4aScagAjnLNYi71ALZ/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 02/27 | Lecture 5             | Color and Radiometry   | Slides (<a href="https://docs.google.com/presentation/d/1wvO09oe4qSsJDpRP2xHKZmWoRE72StAj/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 03/02 | Lab 6                 | Color and Radiometry  | No slides |
-| 03/06 | Lecture 6             | Color and Radiometry     | Slides (<a href="https://docs.google.com/presentation/d/1RV3Xh46H-UaaLr9MnCV4k2e1ngNg6xQU/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>)  |
+| 03/06 | Lecture 6             | Color     | Slides (<a href="https://docs.google.com/presentation/d/1RV3Xh46H-UaaLr9MnCV4k2e1ngNg6xQU/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>)  |
+| 03/02 | Lab 7                 | Radiometry and Reflectance  | Slides (<a href="https://docs.google.com/presentation/d/1ivcZn1geG0YlogZrY9i3uow_jnn5EwKk/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 03/10 | Homework 2 DUE        | HW on Canny Edge Detector       | HW2 (<a href="https://drive.google.com/file/d/1rE6blCE5USexnMK6xeE03V-cLUrPOIqu/view?usp=sharing">Link</a>) |
 | 03/13 | No class | (spring break) |
 | 03/13 | Course Project DUE    | Project abstract DUE | Submission form (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfRnDNXOdf9RWb9uVwFUbUgo1lGWgCxEt57N2Gq89hCu_Ff7Q/viewform">link</a>) |
