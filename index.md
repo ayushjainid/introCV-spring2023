@@ -110,6 +110,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/10 | Homework 2 DUE        | HW on Canny Edge Detector       | HW2 (<a href="https://drive.google.com/file/d/1rE6blCE5USexnMK6xeE03V-cLUrPOIqu/view?usp=sharing">Link</a>) |
 | 03/13 | No class | (spring break) | |
 | 03/13 | Course Project DUE    | Project abstract DUE | Submission form (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfRnDNXOdf9RWb9uVwFUbUgo1lGWgCxEt57N2Gq89hCu_Ff7Q/viewform">link</a>) |
+| 03/20 | Lecture 7             | Guest Lecture - Visual Learning in the Open World | Slides (<a href="https://drive.google.com/file/d/1HW0_-jKGki-RBRcAo_8KaDye4w6P5y7M/view?usp=sharing">PPTX</a>)  |
 | 04/14 | Course Project DUE    | Draft Report DUE  | Brightspace |
 | 05/08 | Lecture 14            | Final Presentations    | In-person |
 | 05/08 | Course Project DUE    | Final Report DUE  | Brightspace |
