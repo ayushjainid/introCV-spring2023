@@ -113,7 +113,6 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/20 | Lecture 7             | Guest Lecture - Visual Learning in the Open World | Slides (<a href="https://drive.google.com/file/d/1HW0_-jKGki-RBRcAo_8KaDye4w6P5y7M/view?usp=sharing">PPTX</a>)  |
 | 03/23 | Lab 8                 | NMS and RANSAC Implementation  | Notebook (<a href="https://drive.google.com/file/d/1pCZoHpd-mjwzZXC33bKE5eNNNzXy0jmP/view?usp=sharing">PPTX</a>) |
 | 03/27 | Lecture 8             | Stereopsis | Slides (<a href="https://docs.google.com/presentation/d/14cHWzMCsLI2aI6PXOwHe2tWxvpGhv-Wm/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>)  |
-https://drive.google.com/file/d/18zIZXQVgV46cCwTAEaBCBHw6UF2y57J9/view?usp=sharing
 | 03/23 | Lab 9                 | HW3 Review: Epipolar Line Computation  | Slides (<a href="https://drive.google.com/file/d/18zIZXQVgV46cCwTAEaBCBHw6UF2y57J9/view?usp=sharing">PPTX</a>) |
 | 04/03 | Lecture 9             | Structure from Motion | Slides (<a href="https://docs.google.com/presentation/d/1fEE91gfEv9WtFpSt4a7e66R1Jn8q-Q3p/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>)  |
 | 04/10 | Lecture 10             | Self-Calibration | Slides (<a href="https://docs.google.com/presentation/d/1KlfF3mj6N4QJ-VovFGDWNA7EqSUk02XM/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>)  |
