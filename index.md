@@ -116,7 +116,6 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/23 | Lab 9                 | HW3 Review: Epipolar Line Computation  | Slides (<a href="https://drive.google.com/file/d/18zIZXQVgV46cCwTAEaBCBHw6UF2y57J9/view?usp=sharing">PPTX</a>) |
 | 04/03 | Lecture 9             | Structure from Motion | Slides (<a href="https://docs.google.com/presentation/d/1fEE91gfEv9WtFpSt4a7e66R1Jn8q-Q3p/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>)  |
 | 04/10 | Lecture 10             | Self-Calibration | Slides (<a href="https://docs.google.com/presentation/d/1KlfF3mj6N4QJ-VovFGDWNA7EqSUk02XM/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>)  |
-https://docs.google.com/presentation/d/1tG3PrA9uPVpLIi8ThN-fVx1pw82exfc-/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true
 | 03/23 | Lab 10                 | Introduction to computer vision - 11.5  | Slides (<a href="https://docs.google.com/presentation/d/1tG3PrA9uPVpLIi8ThN-fVx1pw82exfc-/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 04/14 | Course Project DUE    | Draft Report DUE  | Brightspace |
 | 05/08 | Lecture            | Final Presentations    | In-person |
