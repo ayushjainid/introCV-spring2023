@@ -52,10 +52,10 @@ grade) + class participation and attendance (5%) + lab participation and attenda
 Due on Feb. 17.
 * **Homework 2** on Canny edge detector. <a href="https://docs.google.com/presentation/d/1cFOEEKzBIQuZNEYbMFb8crGEQ6kwcYcP/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">Link</a>
 Due on Mar. 10.
-* **Homework 3** on mean shift.
-Due on Apr. 11.
-* **Homework 4** on neural networks.
-Due on May 5.
+* **Homework 3** on Epipolar Line Estimation. <a href="https://drive.google.com/file/d/18zIZXQVgV46cCwTAEaBCBHw6UF2y57J9/view?usp=sharing">Link</a>
+Due on Apr. 14.
+* **Homework 4** on Mean Shift Algorithm. <a href="https://docs.google.com/presentation/d/19zfg2cv_HvngaXGpgMKcaw4K9-vF-IjK/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">Link</a>
+Due on May 4.
 * **Final project:** Fill in the course project survey <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRnDNXOdf9RWb9uVwFUbUgo1lGWgCxEt57N2Gq89hCu_Ff7Q/viewform">form</a> and submit the project abstract by March 13 on Brightspace. Draft report submissions by April 14. Final presentations will be held during the last lecture (May 8) and the project report will be due May 8, 11.59 PM EST.
 
 ### Participation and Attendance
@@ -119,10 +119,10 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 04/13 | Lab 10                | Introduction to computer vision - 11.5  | Slides (<a href="https://docs.google.com/presentation/d/1tG3PrA9uPVpLIi8ThN-fVx1pw82exfc-/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 04/14 | Course Project DUE    | Draft Report DUE  | Brightspace |
 | 04/17 | Lecture 11            | Introduction to computer vision - 12  | Slides (<a href="https://docs.google.com/presentation/d/12jAteEohqEyJGPS8p25lAtAIYfpmeLOx/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
-| 04/20 | Lab 11                | HW4 Review: Mean Shift  | Slides (<a href="">PPTX</a>) |
-| 05/08 | Lecture            | Final Presentations    | In-person |
-| 05/08 | Course Project DUE    | Final Report DUE  | Brightspace |
-
+| 04/20 | Lab 11                | HW4 Review: Mean Shift  | Slides (<a href="https://docs.google.com/presentation/d/19zfg2cv_HvngaXGpgMKcaw4K9-vF-IjK/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
+| 05/07 | Course Project        | Final Project Report DUE    | Brightspace |
+| 05/08 | Course Project        | Project Presentations - I    | Room 208, Silver Center for Arts and Science |
+| 05/12 | Course Project        | Project Presentations - II    | Room 269, Global Center for Academic and Spiritual Life |
 
 
 ### Acknowledgements
