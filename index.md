@@ -120,6 +120,8 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 04/14 | Course Project DUE    | Draft Report DUE  | Brightspace |
 | 04/17 | Lecture 11            | Introduction to computer vision - 12  | Slides (<a href="https://docs.google.com/presentation/d/12jAteEohqEyJGPS8p25lAtAIYfpmeLOx/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 04/20 | Lab 11                | HW4 Review: Mean Shift  | Slides (<a href="https://docs.google.com/presentation/d/17TpP0H8YD9X-_hyuzjTjYDv9PYNC87QG/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
+| 04/24 | Lecture 12            | Guest Lecture by Albert Bietti on Generative Modeling  | Slides (<a href="https://docs.google.com/presentation/d/1ectXhp6lewx7DpjA7z4eVYTSSWx8GZJS/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
+| 04/27 | Lab 12                | Introduction to computer vision - 13 (Deep Learning)  | Slides (<a href="https://docs.google.com/presentation/d/1SsQZOvEH5G91n5OnSq8SZVS04aWNdO9D/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 05/07 | Course Project        | Final Project Report DUE    | Brightspace |
 | 05/08 | Course Project        | Project Presentations - I    | 4:55 PM - 6:35 PM, Room 208, Silver Center for Arts and Science |
 | 05/12 | Course Project        | Project Presentations - II    | 4:00 PM - 5:50 PM, Room 269, Global Center for Academic and Spiritual Life |
