@@ -123,6 +123,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 04/24 | Lecture 12            | Guest Lecture by Albert Bietti on Generative Modeling  | Slides (<a href="https://docs.google.com/presentation/d/1ectXhp6lewx7DpjA7z4eVYTSSWx8GZJS/edit?usp=sharing&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 04/27 | Lab 12                | Introduction to computer vision - 13 (Deep Learning)  | Slides (<a href="https://docs.google.com/presentation/d/1SsQZOvEH5G91n5OnSq8SZVS04aWNdO9D/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 04/24 | Lecture 13            | Introduction to computer vision - 14 (Deep Learning)  | Slides (<a href="https://docs.google.com/presentation/d/1nv0XbKFKiJ99QYQCaKPo_jwEnfX6oaWE/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
+| 04/27 | Lab 13                | Introduction to computer vision - 14.5  | Slides (<a href="https://docs.google.com/presentation/d/1KvKIeImhEp8ONmXl1Ri9jLFdeLhIJkvx/edit?usp=share_link&ouid=108863294682406064060&rtpof=true&sd=true">PPTX</a>) |
 | 05/07 | Course Project        | Final Project Report DUE    | Brightspace |
 | 05/08 | Course Project        | Project Presentations - I    | 4:55 PM - 6:35 PM, Room 208, Silver Center for Arts and Science |
 | 05/12 | Course Project        | Project Presentations - II    | 4:00 PM - 5:50 PM, Room 269, Global Center for Academic and Spiritual Life |
